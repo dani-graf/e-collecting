@@ -255,6 +255,11 @@ Beteiligung: 19 Beiträge von 12 Personen, Stand 17.3.2026
 * Das postulierte Teilnahmegeheimnis ist ein neues, zusätzliches Thema, das bis dato keine Rolle spielte
 * Geopolitische Zeitenwende: Sicherheit erhält mehr Gewicht
 * Es braucht Zeit für den Dialog, für das Messen der Argumente und für das Finden von tragfähigen Lösungen
+* Analoge Unterschriftensammlung ist nicht barrierefrei (u. a. für ~300’000 Sehbehinderte). E-Collecting ist zentral, um politische Rechte für alle zugänglich zu machen.
+* Die «Briefkasten-Demokratie» erhöht die Partizipationshürden – besonders für junge Erwachsene, die primär digital kommunizieren. Das wird wachsenden Systemproblem.
+* E-Collecting ermöglicht es auch jenen, die wegen «Unterschriftenbschiss» und anhaltender Datenschutzmängel nicht mehr analog unterschreiben wollen, ihre politischen Rechte auszuüben.
+* E-Collecting ist freiwillig. Für einen Versuchsbetrieb genügt bereits eine gegenüber der Papiersammlung deutlich bessere Sicherheit und ein höherer Datenschutz, um Akzeptanz und Nutzung zu erreichen.
+* Ein Versuchsbetrieb sollte innerhalb von 2 Jahren starten – auf Basis bestehender, sicheren Technologien, mit paralleler Weiterentwicklung der Kryptografie.
 
 ## Diskussion 6: Zuschreibung der Unterstützungsbekundungen
 
